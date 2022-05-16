@@ -12,7 +12,7 @@ print(countdown(5))
 def print_and_return(list):
     print(list[0])
     return list[1]
-print(print_and_return([1,3]))
+print(print_and_return([1,5]))
 
 # ? Example: print_and_return([1,2]) should print 1 and return 2
 
