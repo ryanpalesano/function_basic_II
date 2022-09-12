@@ -10,7 +10,7 @@ print(countdown(5))
 
 #  Print and Return - Create a function that will receive a list with two numbers. Print the first value and return the second.
 
-def print_and_return(list):
+def print_and_return():
     print(list[0])
     return list[1]
 print(print_and_return([1,2]))
